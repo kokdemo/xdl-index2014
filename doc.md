@@ -13,7 +13,6 @@
 
 ###软件自由日：
 
-![软件自由日]()
 软件自由日(Software Freedom Day,缩写：SFD)是一个关于[自由软件][1]和[开源软件][2]的全球性庆祝活动。从[2006年][3]开始，每年9月第3个周六是一年一度的软件自由日，是全世界自由/开源软件爱好者的节日。其目的是向公众推广和宣传自由/开源软件。西电开源社区将于2014年9月XX日举行2014自由软件日-西电站.
 
 ###Hacking Thursday
@@ -38,6 +37,15 @@ Hacking Thursday(缩写：H4) 是从台湾的自由软件社区诞生的一种�
 ###Braining Dinner
 小火锅 烧烤 Git与妹子
 
+
+##社区资源
+- 社区主页：http://xdlinux.info
+
+
+##Join US
+- 邮件列表：
+- 人人主页：
+- 微信公众平台：
 
 [1]:	http://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6 "自由软件"
 [2]:	http://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6 "开源软件"
