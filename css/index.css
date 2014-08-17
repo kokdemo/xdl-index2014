@@ -1,0 +1,75 @@
+body{
+	overflow:hidden;
+    background:#222222;
+
+}
+
+.background{
+	background:#222222;
+}
+
+.noanchor:link, .noanchor:visited, .noanchor:active {
+	text-decoration: none;
+	color:white;
+}
+
+.page{
+	width:100%;
+	height:100%;
+}
+
+#logo{
+	left:10px;
+	top:0;
+}
+
+#content{
+	height:100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	background: #333;
+
+}
+
+.arrow{
+	opacity:0.2;
+}
+
+.dirText{
+	color:white;
+	font-size:40px;
+	margin-top:45px;
+	opacity:0.0;
+}
+
+.control{
+	position:fixed;
+	width:170px;
+	cursor:pointer;
+}
+
+#rightControl{
+	right:0;
+	top:40%;
+    text-align: right;
+}
+
+#leftControl{
+	left:0;
+	top:40%;
+
+}
+
+/*font*/
+.hero {
+    font-family: "Microsoft Yahei", "微软雅黑", "宋体", "Arial", sans-serif;
+    text-align: center;
+    width: 100%;
+    display: block;
+    color: #ffffff;
+    font-size: 300%;
+}
+.heroword{
+    top: 40%;
+    position: relative;
+}
